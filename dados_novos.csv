@@ -1,0 +1,101 @@
+causa_acidente;classificacao_acidente;fase_dia;mortos;feridos_leves;feridos_graves;ilesos;semana;tipo_acidente;tipo_pista;uso_solo
+Ingestão de álcool pelo condutor;Com Vítimas Feridas;Plena Noite;0;1;0;2;4;Colisão traseira;Dupla;Não
+Velocidade Incompatível;Com Vítimas Feridas;Plena Noite;0;2;0;0;4;Colisão com objeto;Dupla;Não
+Demais falhas mecânicas ou elétricas;Sem Vítimas;Plena Noite;0;0;0;1;4;Incêndio;Dupla;Sim
+Manobra de mudança de faixa;Com Vítimas Feridas;Plena Noite;0;2;0;1;4;Colisão lateral;Múltipla;Sim
+Reação tardia ou ineficiente do condutor;Com Vítimas Feridas;Plena Noite;0;0;1;1;4;Colisão traseira;Múltipla;Sim
+Velocidade Incompatível;Com Vítimas Feridas;Plena Noite;0;1;0;1;4;Saída de leito carroçável;Simples;Sim
+Iluminação deficiente;Sem Vítimas;Plena Noite;0;0;0;1;4;Saída de leito carroçável;Dupla;Sim
+Condutor Dormindo;Sem Vítimas;Plena Noite;0;0;0;2;4;Colisão lateral;Simples;Não
+Ausência de reação do condutor;Sem Vítimas;Plena Noite;0;0;0;0;4;Saída de leito carroçável;Simples;Não
+Ingestão de álcool pelo condutor;Com Vítimas Feridas;Plena Noite;0;0;1;0;4;Saída de leito carroçável;Simples;Sim
+Condutor Dormindo;Sem Vítimas;Plena Noite;0;0;0;1;4;Saída de leito carroçável;Dupla;Não
+Reação tardia ou ineficiente do condutor;Com Vítimas Feridas;Plena Noite;0;1;1;0;4;Atropelamento de Pedestre;Dupla;Sim
+Condutor deixou de manter distância do veículo da frente;Com Vítimas Feridas;Plena Noite;0;7;0;1;4;Colisão traseira;Múltipla;Sim
+Transitar na contramão;Com Vítimas Feridas;Plena Noite;0;1;0;1;4;Colisão frontal;Dupla;Não
+Pedestre andava na pista;Com Vítimas Fatais;Plena Noite;1;0;0;1;4;Atropelamento de Pedestre;Dupla;Não
+Condutor Dormindo;Com Vítimas Feridas;Plena Noite;0;1;0;0;4;Capotamento;Dupla;Não
+Velocidade Incompatível;Com Vítimas Feridas;Amanhecer;0;0;1;0;4;Saída de leito carroçável;Dupla;Não
+Condutor Dormindo;Com Vítimas Fatais;Plena Noite;1;0;0;1;4;Colisão frontal;Simples;Não
+Condutor Dormindo;Com Vítimas Feridas;Plena Noite;0;3;1;0;4;Saída de leito carroçável;Dupla;Não
+Animais na Pista;Com Vítimas Fatais;Plena Noite;1;0;1;0;4;Atropelamento de Animal;Simples;Não
+Manobra de mudança de faixa;Sem Vítimas;Amanhecer;0;0;0;4;4;Colisão lateral;Dupla;Não
+Ingestão de álcool pelo condutor;Sem Vítimas;Plena Noite;0;0;0;1;4;Colisão com objeto;Dupla;Não
+Condutor deixou de manter distância do veículo da frente;Sem Vítimas;Plena Noite;0;0;0;2;4;Colisão traseira;Simples;Não
+Ingestão de álcool pelo condutor;Com Vítimas Fatais;Amanhecer;1;0;0;0;4;Tombamento;Simples;Não
+Velocidade Incompatível;Com Vítimas Fatais;Amanhecer;1;2;0;0;4;Capotamento;Simples;Sim
+Ausência de reação do condutor;Com Vítimas Feridas;Plena Noite;0;1;0;0;4;Saída de leito carroçável;Simples;Não
+Velocidade Incompatível;Com Vítimas Feridas;Plena Noite;0;1;0;0;4;Saída de leito carroçável;Dupla;Sim
+Condutor Dormindo;Com Vítimas Feridas;Amanhecer;0;0;1;0;4;Saída de leito carroçável;Dupla;Sim
+Condutor Dormindo;Com Vítimas Feridas;Amanhecer;0;4;0;1;4;Colisão frontal;Simples;Sim
+Reação tardia ou ineficiente do condutor;Com Vítimas Feridas;Amanhecer;0;1;0;0;4;Tombamento;Dupla;Não
+Velocidade Incompatível;Com Vítimas Feridas;Pleno dia;0;2;0;0;4;Saída de leito carroçável;Dupla;Não
+Ingestão de álcool pelo condutor;Com Vítimas Feridas;Amanhecer;0;1;0;0;4;Saída de leito carroçável;Dupla;Não
+Velocidade Incompatível;Com Vítimas Feridas;Amanhecer;0;0;1;0;4;Capotamento;Simples;Sim
+Velocidade Incompatível;Com Vítimas Feridas;Pleno dia;0;1;0;0;4;Colisão com objeto;Dupla;Sim
+Condutor Dormindo;Sem Vítimas;Pleno dia;0;0;0;1;4;Saída de leito carroçável;Dupla;Não
+Animais na Pista;Com Vítimas Feridas;Amanhecer;0;0;1;0;4;Atropelamento de Animal;Simples;Não
+Ingestão de álcool pelo condutor;Sem Vítimas;Amanhecer;0;0;0;3;4;Colisão traseira;Simples;Não
+Objeto estático sobre o leito carroçável;Com Vítimas Feridas;Plena Noite;0;0;1;1;4;Colisão frontal;Simples;Sim
+Ingestão de álcool pelo condutor;Com Vítimas Feridas;Pleno dia;0;0;1;1;4;Tombamento;Simples;Sim
+Ingestão de álcool pelo condutor;Com Vítimas Feridas;Plena Noite;0;0;1;1;4;Colisão frontal;Simples;Sim
+Velocidade Incompatível;Com Vítimas Feridas;Amanhecer;0;1;0;0;4;Saída de leito carroçável;Simples;Não
+Velocidade Incompatível;Com Vítimas Feridas;Pleno dia;0;0;1;0;4;Colisão com objeto;Simples;Não
+Ingestão de álcool pelo condutor;Com Vítimas Feridas;Pleno dia;0;3;0;2;4;Colisão traseira;Dupla;Sim
+Ingestão de álcool pelo condutor;Sem Vítimas;Pleno dia;0;0;0;2;4;Colisão traseira;Dupla;Não
+Velocidade Incompatível;Com Vítimas Feridas;Amanhecer;0;2;0;0;4;Colisão transversal;Dupla;Sim
+Demais falhas mecânicas ou elétricas;Com Vítimas Feridas;Plena Noite;0;1;0;0;4;Saída de leito carroçável;Simples;Não
+Condutor Dormindo;Com Vítimas Feridas;Pleno dia;0;0;1;0;4;Saída de leito carroçável;Simples;Não
+Velocidade Incompatível;Com Vítimas Feridas;Plena Noite;0;1;0;0;4;Saída de leito carroçável;Simples;Não
+Velocidade Incompatível;Com Vítimas Feridas;Pleno dia;0;0;1;1;4;Capotamento;Dupla;Não
+Ingestão de álcool e/ou substâncias psicoativas pelo pedestre;Com Vítimas Feridas;Pleno dia;0;0;1;1;4;Atropelamento de Pedestre;Múltipla;Sim
+Condutor Dormindo;Com Vítimas Feridas;Amanhecer;0;1;0;0;4;Colisão com objeto;Simples;Não
+Velocidade Incompatível;Com Vítimas Feridas;Pleno dia;0;1;0;0;4;Tombamento;Dupla;Sim
+Velocidade Incompatível;Com Vítimas Feridas;Pleno dia;0;1;0;0;4;Saída de leito carroçável;Dupla;Não
+Ingestão de álcool pelo condutor;Sem Vítimas;Amanhecer;0;0;0;1;4;Saída de leito carroçável;Simples;Não
+Reação tardia ou ineficiente do condutor;Com Vítimas Feridas;Pleno dia;0;1;0;5;4;Colisão traseira;Simples;Não
+Entrada inopinada do pedestre;Com Vítimas Fatais;Pleno dia;1;0;0;2;4;Atropelamento de Pedestre;Dupla;Não
+Ingestão de álcool pelo condutor;Com Vítimas Feridas;Pleno dia;0;1;0;0;4;Saída de leito carroçável;Dupla;Sim
+Falta de elemento de contenção que evite a saída do leito carroçável;Sem Vítimas;Pleno dia;0;0;0;0;4;Colisão com objeto;Dupla;Sim
+Ausência de reação do condutor;Com Vítimas Feridas;Pleno dia;0;0;1;1;4;Queda de ocupante de veículo;Simples;Sim
+Manobra de mudança de faixa;Com Vítimas Feridas;Pleno dia;0;1;0;1;4;Colisão lateral;Múltipla;Não
+Mal súbito do condutor;Com Vítimas Fatais;Pleno dia;1;0;0;0;4;Saída de leito carroçável;Simples;Não
+Avarias e/ou desgaste excessivo no pneu;Sem Vítimas;Pleno dia;0;0;0;1;4;Saída de leito carroçável;Dupla;Não
+Condutor deixou de manter distância do veículo da frente;Com Vítimas Feridas;Pleno dia;0;2;0;0;4;Colisão lateral;Simples;Não
+Sinalização mal posicionada;Com Vítimas Feridas;Pleno dia;0;1;0;1;4;Colisão transversal;Simples;Sim
+Velocidade Incompatível;Com Vítimas Feridas;Pleno dia;0;2;0;0;4;Tombamento;Simples;Não
+Velocidade Incompatível;Com Vítimas Feridas;Pleno dia;0;0;1;0;4;Saída de leito carroçável;Simples;Sim
+Condutor Dormindo;Com Vítimas Feridas;Pleno dia;0;0;1;0;4;Saída de leito carroçável;Dupla;Não
+Pista Escorregadia;Com Vítimas Feridas;Pleno dia;0;1;0;1;4;Colisão com objeto;Dupla;Não
+Velocidade Incompatível;Com Vítimas Feridas;Pleno dia;0;2;0;2;4;Saída de leito carroçável;Dupla;Não
+Transitar na contramão;Com Vítimas Feridas;Pleno dia;0;0;1;3;4;Colisão frontal;Simples;Não
+Ingestão de álcool pelo condutor;Com Vítimas Feridas;Pleno dia;0;1;0;0;4;Saída de leito carroçável;Simples;Não
+Ingestão de álcool e/ou substâncias psicoativas pelo pedestre;Com Vítimas Feridas;Pleno dia;0;1;0;1;4;Colisão lateral;Simples;Sim
+Velocidade Incompatível;Com Vítimas Feridas;Pleno dia;0;1;0;2;4;Saída de leito carroçável;Dupla;Não
+Reação tardia ou ineficiente do condutor;Com Vítimas Feridas;Pleno dia;0;1;0;1;4;Colisão traseira;Múltipla;Sim
+Velocidade Incompatível;Com Vítimas Feridas;Pleno dia;0;1;0;0;4;Saída de leito carroçável;Simples;Não
+Transitar na contramão;Com Vítimas Feridas;Pleno dia;0;1;1;0;4;Saída de leito carroçável;Simples;Não
+Ingestão de álcool pelo condutor;Sem Vítimas;Pleno dia;0;0;0;2;4;Colisão traseira;Simples;Não
+Velocidade Incompatível;Com Vítimas Feridas;Pleno dia;0;4;0;0;4;Capotamento;Múltipla;Sim
+Chuva;Com Vítimas Feridas;Pleno dia;0;0;1;0;4;Saída de leito carroçável;Dupla;Não
+Desrespeitar a preferência no cruzamento;Sem Vítimas;Pleno dia;0;0;0;2;4;Colisão transversal;Simples;Sim
+Velocidade Incompatível;Sem Vítimas;Pleno dia;0;0;0;3;4;Saída de leito carroçável;Simples;Não
+Reação tardia ou ineficiente do condutor;Com Vítimas Feridas;Pleno dia;0;1;0;1;4;Colisão traseira;Dupla;Sim
+Condutor Dormindo;Sem Vítimas;Pleno dia;0;0;0;1;4;Saída de leito carroçável;Simples;Não
+Curva acentuada;Com Vítimas Feridas;Pleno dia;0;2;0;0;4;Colisão frontal;Simples;Não
+Velocidade Incompatível;Com Vítimas Feridas;Pleno dia;0;1;0;0;4;Capotamento;Dupla;Sim
+Condutor desrespeitou a iluminação vermelha do semáforo;Com Vítimas Feridas;Pleno dia;0;2;0;1;4;Colisão transversal;Dupla;Sim
+Condutor deixou de manter distância do veículo da frente;Com Vítimas Feridas;Pleno dia;0;1;0;2;4;Colisão traseira;Múltipla;Sim
+Condutor Dormindo;Com Vítimas Feridas;Pleno dia;0;1;1;1;4;Colisão frontal;Simples;Não
+Velocidade Incompatível;Com Vítimas Feridas;Pleno dia;0;1;0;0;4;Tombamento;Simples;Não
+Condutor Dormindo;Com Vítimas Feridas;Pleno dia;0;1;0;0;4;Capotamento;Simples;Não
+Acessar a via sem observar a presença dos outros veículos;Com Vítimas Feridas;Pleno dia;0;1;2;2;4;Colisão transversal;Simples;Não
+Chuva;Com Vítimas Feridas;Pleno dia;0;1;0;1;4;Saída de leito carroçável;Dupla;Não
+Velocidade Incompatível;Com Vítimas Feridas;Pleno dia;0;0;1;0;4;Saída de leito carroçável;Dupla;Não
+Velocidade Incompatível;Com Vítimas Feridas;Pleno dia;0;1;0;0;4;Tombamento;Simples;Não
+Velocidade Incompatível;Com Vítimas Feridas;Pleno dia;0;2;0;0;4;Colisão com objeto;Dupla;Não
+Velocidade Incompatível;Sem Vítimas;Pleno dia;0;0;0;4;4;Saída de leito carroçável;Dupla;Não
+Ausência de reação do condutor;Com Vítimas Feridas;Pleno dia;0;1;0;1;4;Queda de ocupante de veículo;Dupla;Não
+Velocidade Incompatível;Com Vítimas Feridas;Pleno dia;0;1;0;2;4;Saída de leito carroçável;Dupla;Sim
+Velocidade Incompatível;Com Vítimas Feridas;Pleno dia;0;4;0;1;4;Saída de leito carroçável;Dupla;Não
+Pista Escorregadia;Com Vítimas Feridas;Pleno dia;0;1;0;3;4;Saída de leito carroçável;Dupla;Não
